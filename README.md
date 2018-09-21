@@ -4,7 +4,7 @@ Utility to include LabVIEW screenshots in Markdown: easily reference your VIs, c
 
 ### Usage:
 
-1. Place [DocTools.lvlibp](../doc/DocTools.lvlibp) in your documentation folder (first level subfolder of project directory)
+1. Place [DocTools.lvlibp](./doc/DocTools.lvlibp) in your documentation folder (first level subfolder of project directory)
 2. Open the library and run Gather Images.vi
 3. An additional folder "img" is created in the documentation directory, containing screenshots of all .vi, .ctl and .lvclass files in the project directory.
 
