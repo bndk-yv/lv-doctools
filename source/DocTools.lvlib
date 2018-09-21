@@ -10,6 +10,8 @@
 		<Item Name="File dir to Image dir.vi" Type="VI" URL="../File dir to Image dir.vi"/>
 		<Item Name="GetDir.vi" Type="VI" URL="../GetDir.vi"/>
 		<Item Name="Replace File.vi" Type="VI" URL="../Replace File.vi"/>
+		<Item Name="List Files.vi" Type="VI" URL="../List Files.vi"/>
 	</Item>
 	<Item Name="Gather Images.vi" Type="VI" URL="../Gather Images.vi"/>
+	<Item Name="Find Unreferenced Files.vi" Type="VI" URL="../Find Unreferenced Files.vi"/>
 </Library>
